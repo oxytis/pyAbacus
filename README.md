@@ -5,3 +5,5 @@
 just download files and run
 
 python abacus.py
+
+requires pygame
